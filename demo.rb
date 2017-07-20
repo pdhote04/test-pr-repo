@@ -1,4 +1,3 @@
-
 class Demo3
 
   puts "hii create conflict in github "
